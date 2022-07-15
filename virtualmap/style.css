@@ -1,0 +1,31 @@
+body {
+    background-color: #242336;
+}
+.col {
+    border: 2px solid #181529;
+    height: 50px;
+    background-color: #2AC161;
+    padding:0;
+}
+.void {
+    background-color: #242336;
+    border:2px solid #242336;
+}
+
+img {
+    width:100%;
+    height:100%;
+    object-fit:cover;
+}
+
+.shallow {
+    background-color: #383552;
+}
+
+.shallow2{
+    background-color: #252339;
+}
+
+.orange {
+    background-color: orange;
+}
